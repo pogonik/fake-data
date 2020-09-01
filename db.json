@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [{
+    "id": "1",
+    "slug": "folder-name-1",
+    "name": "Folder name 1"
+  }, {
+    "id": "2",
+    "slug": "folder-name-2",
+    "name": "Folder name 2"
+  }, {
+    "id": "3",
+    "slug": "folder-name-3",
+    "name": "Folder name 3"
+  }],
+  "isPost": false,
+  "post": [],
+  "_links": [],
+  "_info": [],
+  "_redirect": false,
+  "paginate": null
+}
