@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Shampoo Bars",
+    "image": { "alt": "alt text 1", "src": "/categories/jpgs/cat-1.jpg" },
+    "link": { "href": "alle-shampoo-bars", "text": "ALLE SHAMPOO BARS" }
+  },
+  {
+    "id": "2",
+    "name": "Conditioner Bars",
+    "image": { "alt": "alt text 2", "src": "/categories/jpgs/cat-2.jpg" },
+    "link": { "href": "alle-conditioner-bars", "text": "ALLE CONDITIONER BARS" }
+  },
+  {
+    "id": "3",
+    "name": "Shaving Bars",
+    "image": { "alt": "alt text 3", "src": "/categories/jpgs/cat-3.jpg" },
+    "link": { "href": "alle-shaving-bar", "text": "ALLE SHAVING BARS" }
+  }
+]
